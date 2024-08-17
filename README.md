@@ -1,5 +1,6 @@
 # Tic-Tac-Toe Application
-
+https://docs.google.com/document/d/1TSdkL8AZVhB_6Qc5HMnh4FbpaSQcI8BMYXGtN1__ZpE/edit?usp=sharing
+link for detail documentation
 ## Overview
 
 This is a simple Tic-Tac-Toe game application with a backend built using Spring Boot and a frontend using React. The application allows users to start a new game, make moves, and view a leaderboard of players based on their game results.
